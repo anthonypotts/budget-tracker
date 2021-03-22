@@ -27,7 +27,7 @@ Mongoose, Express
 Anthony Potts (Github: anthonypotts)
 
 ## Video Link
-https://drive.google.com/file/d/1IAMSXX4wby2ZtA5AnoB2kq--MIhGoE6E/view
+
 
 ## About Me
 As a developing developer in the full stack realm, I strive to provide engaging and thoughtful webpages and applications that meet my clients' needs to interact with an ever-changing and expandingly technical world. Thank you for visiting my page. Please don't hesitate to reach out!
